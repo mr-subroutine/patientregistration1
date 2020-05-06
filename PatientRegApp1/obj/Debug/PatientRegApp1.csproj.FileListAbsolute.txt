@@ -1,0 +1,11 @@
+C:\Users\gamef\source\repos\PatientRegApp1\PatientRegApp1\bin\Debug\PatientRegApp1.exe.config
+C:\Users\gamef\source\repos\PatientRegApp1\PatientRegApp1\bin\Debug\PatientRegApp1.exe
+C:\Users\gamef\source\repos\PatientRegApp1\PatientRegApp1\bin\Debug\PatientRegApp1.pdb
+C:\Users\gamef\source\repos\PatientRegApp1\PatientRegApp1\obj\Debug\PatientRegApp1.FormIntro.resources
+C:\Users\gamef\source\repos\PatientRegApp1\PatientRegApp1\obj\Debug\PatientRegApp1.FormMain.resources
+C:\Users\gamef\source\repos\PatientRegApp1\PatientRegApp1\obj\Debug\PatientRegApp1.Properties.Resources.resources
+C:\Users\gamef\source\repos\PatientRegApp1\PatientRegApp1\obj\Debug\PatientRegApp1.csproj.GenerateResource.cache
+C:\Users\gamef\source\repos\PatientRegApp1\PatientRegApp1\obj\Debug\PatientRegApp1.csproj.CoreCompileInputs.cache
+C:\Users\gamef\source\repos\PatientRegApp1\PatientRegApp1\obj\Debug\PatientRegApp1.exe
+C:\Users\gamef\source\repos\PatientRegApp1\PatientRegApp1\obj\Debug\PatientRegApp1.pdb
+C:\Users\gamef\source\repos\PatientRegApp1\PatientRegApp1\obj\Debug\PatientRegApp1.csprojAssemblyReference.cache

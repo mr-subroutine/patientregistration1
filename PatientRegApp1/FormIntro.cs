@@ -16,5 +16,16 @@ namespace PatientRegApp1
         {
             InitializeComponent();
         }
+
+        private void btn_cancel1_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void btn_create_Click(object sender, EventArgs e)
+        {
+            FormMain formMain = new FormMain();
+            formMain.ShowDialog();
+        }
     }
 }
